@@ -20,7 +20,7 @@ const Header = () => {
                             <div className=" leading-[10px] lg:text-[13px] md:text-[10px] sm:text-[8px] text-[7px]">Tez,sapalı,Qolaylı</div>
                         </div>
                     </div>
-                    <div className=" flex items-center gap-3">
+                    <div className=" flex items-center gap-1 md:gap-2 lg:gap-3">
                     
                         <div className="border-[2px] rounded-full border-blue-500 bg-blue-400 w-[25px] h-[25px] sm:w-[35px] sm:h-[35px] flex items-center justify-center text-white text-[20px]">
                             <RxTriangleRight />
