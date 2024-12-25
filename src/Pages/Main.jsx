@@ -5,6 +5,7 @@ import { CgPrinter } from "react-icons/cg";
 import React from "react";
 import Container from "../Components/Container";
 import Contant from "../Components/Contant";
+import Button from "../Components/Button";
 
 const Main = () => {
   return (
@@ -48,7 +49,7 @@ const Main = () => {
             </div>
           </div>
         </div>
-     
+        <Button/>
     </Container>
   );
 };
